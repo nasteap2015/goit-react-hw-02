@@ -1,0 +1,7 @@
+.descriptionContainer{
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    gap: 20px;
+    margin-bottom: 8px;
+}
